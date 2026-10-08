@@ -1,1 +1,2 @@
-demo git
+## Project Status
+Actively maintained and improved.
